@@ -1,8 +1,8 @@
-# 🎨 Artify — Complete Art Marketplace App
+# 🎨 Painting App — Complete Art Marketplace App
 
 ## 📱 About The Project
 
-Artify is a complete digital art marketplace application developed using Flutter & Dart, designed to provide artists, buyers, and administrators with a smooth, modern, and scalable e-commerce experience for digital and physical artwork.
+Painting App is a complete digital art marketplace application developed using Flutter & Dart, designed to provide artists, buyers, and administrators with a smooth, modern, and scalable e-commerce experience for digital and physical artwork.
 
 The application delivers a professional cross-platform experience across Android and iOS with secure architecture, responsive UI, and advanced marketplace functionality.
 
